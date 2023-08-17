@@ -1,21 +1,21 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-<h1 align="center">Hi 👋, I'm Muhammmad Ahmad</h1>
+<h1 align="center">Hi 👋, I'm Muhammmad Ahmad!</h1>
 <h3 align="center">A software developer from Pakistan</h3>
  
-<img align="right" alt="Coding" width="400" src="[https://precious-starlight-a9247e.netlify.app/me.39342f83.png](https://scontent.flhe5-1.fna.fbcdn.net/v/t39.30808-6/359800547_965038738119317_3101841362061423213_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeEXbIH9dHogBz6oI-xAgXZw0rW5t7uiLJrStbm3u6IsmjgWEYZZ2je-Uzw2x4LPG2Zmk4sL7oIimBmD4UQblgFj&_nc_ohc=YNirDYt2DuEAX805PL8&_nc_ht=scontent.flhe5-1.fna&oh=00_AfAtLNkJ3J1kKlqqKIny1U_E2T3uzla2jXV66_njG8YICg&oe=64E3F873)" style="margin-bottom:20px;border-radius:10px;" />
+<img align="right" alt="Coding" width="400" src="https://firebasestorage.googleapis.com/v0/b/olearn-ff2a9.appspot.com/o/ahmad%20full.jpeg?alt=media&token=fe4d6a52-fbcb-434e-ba4f-e9d4f1ceef05" style="margin-bottom:20px;border-radius:10px;" />
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahriarsajeeb&label=Profile%20views&color=0e75b6&style=flat" alt="shahriarsajeeb" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahriarsajeeb&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammad Ahmad" /> </p>
 
-- I am currently working on [Becodemy](https://www.becodemy.com)
+- I am currently working on [Digitalux](https://digitalux.uk/)
 
-- 🌱 I’m currently learning **Machine Learning,Data Science**
+- 🌱 I’m currently learning **React Native, Python**
 
 - 👨‍💻 All of my projects are available at [https://shahriarsajeeb.com/](https://shahriarsajeeb.com/)
 
-- 💬 Ask me about **MERN,Web Application/ Mobile Apps Development**
+- 💬 Ask me about **MERN, Web Application/ Mobile Apps Development**
 
-- 📫 How to reach me **programmershahriarsajeeb@gmail.com**
+- 📫 How to reach me **muhammadahmadrcs@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
